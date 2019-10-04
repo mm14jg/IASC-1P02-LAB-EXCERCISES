@@ -1,0 +1,18 @@
+#wrapper {background-color:green;}
+
+#style1{
+  color:red;
+}
+
+#style2{
+  color:#1E5631;
+}
+
+#style3{
+  color:purple;
+}
+
+div {border: black 3px dashed;
+margin-left: 10px;
+margin-right: 10px;
+}

@@ -1,0 +1,36 @@
+#firststyle{
+  color:navy;
+  text-align: center;
+  border: purple 3px dashed;
+  font-size: 15px;
+  padding: 200px 5px 20px 5px
+}
+
+#secondstyle{
+  color:green;
+  text-align: center;
+}
+
+#thirdstyle{
+  color:orange;
+  font-size: 30px;
+}
+
+#thirdstyle2{
+  color:red;
+  vertical-align: super;
+}
+
+
+#fourthstyle{
+color:purple
+}
+
+#fourthstyle2{
+  color:yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+p {font-size: 10px;
+text-align: left;}

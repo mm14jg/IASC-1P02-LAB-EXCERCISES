@@ -1,0 +1,16 @@
+body {background-color: blue}
+
+#one {margin: 1% 1% 1% 1%;
+        border: green 1px dashed;
+  padding: 5px 5px 5px 3px;
+      }
+
+img {border: pink 1px dashed;
+  padding: 15px 15px 15px 15px;}
+
+p {color:magenta;
+font-family:"arial", Serif;
+font-size:10px;}
+
+div {margin: 100px 10% 20px 10%;
+  border: black 3px solid;}

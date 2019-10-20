@@ -1,0 +1,60 @@
+h1 {text-align: center;
+    color:purple;
+    position: fixed;}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+    border: purple 3px solid;}
+
+body {color:white;
+      background-color: black;}
+
+h2, h3, h4 {color: blue;}
+
+h2 {text-transform: uppercase;
+    font-size: 30px;
+    position: absolute;}
+
+#wrapper {
+  width: 950px;
+   margin:0 auto;
+}
+
+#Left {float: left;}
+
+#Right {float: right;}
+
+#intro {position: relative;
+        left: 260px;
+        padding: 20px;
+        color: pink;
+        font-weight: bold;
+        font-size: 20px;}
+
+#link {position: relative;
+        left: 370px;
+        font-style: oblique;
+        font-size: 25px;}
+
+#link2 {position: relative;
+        left: 230px;
+        font-style: oblique;
+        font-size: 20px;}
+
+
+p {font-family: sans-serif;}
+
+div p {font-style: oblique;}
+
+ol {font-family: sans-serif;}
+
+ul {font-family: sans-serif;}
+
+#footer {
+  height: 70px;
+  clear: both;
+  padding-top: 1px;
+  text-align: center;
+  background-color: purple;
+}

@@ -1,0 +1,128 @@
+body{
+  color: black;
+  background-color: lightblue;
+}
+
+#wrapper{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+#header{
+  height: 100px;
+  text-align: center;
+  padding-bottom: 60px;
+  padding-top: 1px;
+  background-color: teal;
+}
+
+#leftside{
+  width: 380px;
+  height: 1100px;
+  background-color: teal;
+  float: left;
+}
+
+#rightside{
+  width: 690px;
+  height: 1100px;
+  float: right;
+  padding-left: 30px;
+}
+
+#footer{
+  background-color: teal;
+  height: 100px;
+  clear: both;
+}
+
+p{
+  font-size: 16px;
+  color: darkblue;
+  text-align: justify;
+  font-family: "Bahnschrift Light SemiCondensed", sans-serif;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+  font-family: "Algerian", sans-serif;
+}
+
+h2{
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: lightblue;
+  text-decoration: underline;
+  font-family: "Century Gothic", sans-serif;
+}
+
+h3{
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  font-family: "Century Gothic", sans-serif;
+}
+
+h4{
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: teal;
+  text-decoration: underline;
+  font-family: "Century Gothic", sans-serif;
+}
+
+#special {
+   color: lightblue;
+   text-align: center;
+   font-size: 18px;
+   padding-top: 20px;
+   text-decoration: underline;
+}
+
+#special2 {
+   color: lightgrey;
+   text-align: center;
+   font-size: 20px;
+}
+
+#anchor{
+  text-align: right;
+  font-size: 18px;
+  color: white;
+  padding-right: 50px;
+
+}
+
+img.right{
+  float: right;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+img.left{
+  float: left;
+  margin-left: 30px;
+}
+
+img.one{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+img.two{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+img.three{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+img.four{
+  max-width: 50%;
+  max-height: 50%;
+}

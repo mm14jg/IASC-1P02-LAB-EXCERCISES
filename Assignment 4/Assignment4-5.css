@@ -1,0 +1,143 @@
+body {
+  background-color: peachpuff;
+  color: indianred;
+  font-family: bahnschrift light, sans-serif;
+  font-weight: bold;
+}
+
+#wrapper{
+  width: 1020px;
+  margin: 0 auto;
+  background-color: papayawhip;
+}
+
+#header{
+  height: 100px;
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 1px;
+  font-size: 60px;
+  font-family: forte;
+  background-color: indianred;
+  color: papayawhip;
+}
+
+#header2{
+  height: 60px;
+  background-color: indianred;
+  color: peachpuff;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 20px;
+}
+
+#header3{
+  height: 50px;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: firebrick;
+}
+
+#rightside{
+  width: 450px;
+  height: 2000px;
+  float:right;
+  text-align: center;
+  padding-left: 20px;
+}
+
+#leftside{
+  width: 500px;
+  height: 2000px;
+  float: left;
+  text-align: justify;
+  padding-left: 50px;
+}
+
+#footer{
+  height: 160px;
+  clear: both;
+  background-color: indianred;
+  color: firebrick;
+}
+
+#footerheading{
+  color: firebrick;
+  font-size: 25px;
+  padding-top: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#footerhead{
+  padding-left: 140px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+#footeranchor2{
+  text-transform: uppercase;
+  text-align: right;
+  padding-left: 480px;
+  font-size: 18px;
+}
+
+img.one{
+  max-width: 38%;
+  max-height: 38%;
+  padding-left: 55px;
+}
+
+img.two{
+  max-width: 3%;
+  max-height: 3%;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3{
+  color: firebrick;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: darksalmon;
+  color: firebrick;
+}
+
+.previous {
+  background-color: darksalmon;
+  color: firebrick;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+}
+
+.checked {
+  color: orange;
+}

@@ -1,0 +1,161 @@
+body {
+  background-color: peachpuff;
+  color: indianred;
+  font-family: bahnschrift light, sans-serif;
+  font-weight: bold;
+  text-align: justify;
+}
+
+#wrapper{
+  width: 1020px;
+  margin: 0 auto;
+  background-color: papayawhip;
+}
+
+#header{
+  height: 130px;
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 1px;
+  font-size: 60px;
+  font-family: forte;
+  background-color: indianred;
+  color: papayawhip;
+}
+
+#leftside{
+  width: 370px;
+  height: 1400px;
+  float: left;
+  padding-left: 30px;
+}
+
+#rightside{
+  width: 500px;
+  height: 1400px;
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#footer{
+  height: 140px;
+  clear: both;
+  background-color: indianred;
+  color: firebrick;
+}
+
+#footerheading{
+  color: firebrick;
+  font-size: 25px;
+  padding-top: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#footerhead{
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-left: 70px;
+}
+
+#footeranchor{
+  text-transform: uppercase;
+  text-align: right;
+  padding-left: 540px;
+  font-size: 18px;
+}
+
+img.one{
+  max-width: 75%;
+  max-height: 75%;
+  padding-left: 65px;
+}
+
+img.two{
+  max-width: 10%;
+  max-height: 10%;
+}
+
+img.three{
+  max-width: 75%;
+  max-height: 75%;
+  padding-left: 47px;
+}
+
+#subheading{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: firebrick;
+}
+
+#subheading2{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: firebrick;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+h2{
+  text-align: center;
+  font-size: 16px;
+}
+
+#caption{
+  text-align: center;
+  color: darksalmon;
+  font-size: 16px;
+}
+
+#caption2{
+  text-align: center;
+  color: darksalmon;
+  font-size: 16px;
+}
+
+#caption3{
+  text-align: center;
+  color: darksalmon;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: darksalmon;
+  color: firebrick;
+}
+
+
+.next {
+  background-color: darksalmon;
+  color: firebrick;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-reddit {
+  background: indianred;
+  color: white;
+  padding-left: 280px;
+}
